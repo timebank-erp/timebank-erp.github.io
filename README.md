@@ -22,12 +22,12 @@ Managers can:
 People can:
 - select the next Project out of the list of Projects today
 - see the Project details, including the client, the project location, and the projected start and end time, as well as the Crews on the Job, their role, and rate
-- select "Im on my way!" and see the distance from their current location to the project
+- select *Im on my way!* and see the distance from their current location to the project
 - choose to get a live update (enable tracking)
-- select "I am here!" and see who else has checked in
-- select "Leaving Site (Blocked/Break)" and leave a comment about issue
-- select "Back On-Site (Unblocked)" and leave a comment about issue
-- select "Job Complete" and see a Job Summary to submit to the Manager, this informs the Invoice it creates
+- select *I am here!* and see who else has checked in
+- select *Leaving Site (Blocked/Break)* and leave a comment about issue
+- select *Back On-Site (Unblocked)* and leave a comment about issue
+- select *Job Complete* and see a Job Summary to submit to the Manager, this informs the Invoice it creates
 - review the Project
 - review the Client
 - select how many hours to "Bank"
