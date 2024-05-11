@@ -10,16 +10,16 @@ $25 per manager plus $10 per person in your crews (min 1 person, $35)
 Unliminted Projects, Clients, Crews
 
 Managers can:
-- invite your People to create a Profile
-- create Crews to which you can assign your People
+- invite your Crew to create a Profile
+- create Crews to which you can assign your Crew
 - create Projects which have Clients
 - add Crews to Projects
 - generate Invoices after Crews Complete Job
-- control their Subscription to Stripe to add/remove number of People, or change from Monthly to Annual Payments
+- control their Subscription to Stripe to add/remove number of Crew, or change from Monthly to Annual Payments
 - collect their revenues through Stripe
-- pay their People using their Stripe Balance
+- pay their Crew using their Stripe Balance
 
-People can:
+Crew can:
 - select the next Project out of the list of Projects today
 - see the Project details, including the client, the project location, and the projected start and end time, as well as the Crews on the Job, their role, and rate
 - select *Im on my way!* and see the distance from their current location to the project
@@ -37,6 +37,6 @@ People can:
 Clients can:
 - Review Crew
 - reveiw Project
-- review People
+- review Crew
 - review Company
 - pay, download, and review their Invoices through Stripe
